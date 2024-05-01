@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Umm-e-Ruman1
+- 👋 Hi, I’m @Umm-e-Ruman
 - 🌱 I’m currently learning Typescript and Javscript...
 
 - 😄 Pronouns: she/her
